@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/ZcFQyYz.png" alt="Welcome Banner" />
+</p>
+
+
 # Hey 👋 What's up?
 
 I'm **Hammad Shamraiz**  
