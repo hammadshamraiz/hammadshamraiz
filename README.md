@@ -7,7 +7,6 @@ I'm **Hammad Shamraiz**
 
 ## 👨‍💻 About Me
 
-💼 Software Engineer at **DUNWELL TECHNOLOGIES**  
 📚 Constantly learning new technologies – currently focused on **Full Stack Development**  
 🚀 Always open to collaborating on **Web Development Projects**  
 🌐 Passionate about building **scalable, efficient software systems**
