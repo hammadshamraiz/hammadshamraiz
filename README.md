@@ -1,7 +1,7 @@
 # Hey 👋 What's up?
 
 I'm **Hammad Shamraiz**  
-💻 Software Engineer | Tech Explorer |
+💻 Software Engineer | Tech Explorer
 
 ---
 
