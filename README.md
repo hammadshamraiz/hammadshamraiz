@@ -1,7 +1,7 @@
 # Hey 👋 What's up?
 
 I'm **Hammad Shamraiz**  
-💻 Software Engineer | Tech Explorer | Founder @ DUNWELL TECHNOLOGIES
+💻 Software Engineer | Tech Explorer |
 
 ---
 
